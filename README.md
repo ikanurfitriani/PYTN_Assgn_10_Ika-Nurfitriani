@@ -27,6 +27,6 @@ This aim of this project is to choose the best algorithm. The dataset can be dow
       <td><b>Ika Nurfitriani</b></td>
       <td><b>PYTN-KS10-008</b></td>
     </tr>
-</table><br>
+</table>
 
 *This repository contains assignment code archives that I have revised or evaluated from the results of previous work on the SIB KM Batch 3 program on hacktiv8.*

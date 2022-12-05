@@ -4,10 +4,10 @@ Assignment Hacktiv8 SIB Batch 3
 </h1>
 
 <p align="center">
-  <a href="#Assignment-1">Assignment-1</a> •
-  <a href="#Assignment-2">Assignment-2</a> •
-  <a href="#Assignment-3">Assignment-3</a> •
-  <a href="#Author">Author</a> •
+  <a href="#Assignment-1">Assignment-1</a> *
+  <a href="#Assignment-2">Assignment-2</a> *
+  <a href="#Assignment-3">Assignment-3</a> *
+  <a href="#Author">Author</a> 
 </p>
 
 ## Assignment-1
